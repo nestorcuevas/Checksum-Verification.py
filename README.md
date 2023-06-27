@@ -2,8 +2,6 @@
 
 This Python script calculates the checksum of a file using different algorithms (MD5, SHA1, SHA256, SHA512). It prompts the user for the file path and algorithm choice, performs the checksum calculation, and displays the result in the corresponding algorithm-specific color.
 
-
-
 ## Dependencies
 
 - `hashlib`: This module provides various hashing algorithms.
@@ -31,6 +29,8 @@ The script follows these steps to calculate the checksum:
 > Note: The file path is checked for existence using the `os.path.exists()` function from the `os` module.
 
 > This script uses the `colorama` library for cross-platform support of colored terminal output.
+
+> This script was created by **nestorcuevas**. Go forth and do great things!
 
 ## What is a Checksum?
 
