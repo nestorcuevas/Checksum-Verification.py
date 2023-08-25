@@ -1,7 +1,6 @@
 # Checksum-Verification.py
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}"/>
-![image]({[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)})
+
 
 This Python script calculates the checksum of a file using different algorithms (MD5, SHA1, SHA256, SHA512). It prompts the user for the file path and algorithm choice, performs the checksum calculation, and displays the result in the corresponding algorithm-specific color.
 
