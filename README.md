@@ -1,6 +1,7 @@
 # Checksum-Verification.py
-<img src="https://img.shields.io/badge/Made_by-8comma1-blue" />
+
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Made_by-8comma1-blue" />
 
 
 
